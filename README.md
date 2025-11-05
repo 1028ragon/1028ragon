@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=1028ragon's%20Github&stroke=6ba3fe&fontAlign=62)
+![header](https://capsule-render.vercel.app/api?type=venom&text=1028ragon's%20Github&stroke=6ba3fe&fontAlign=)
 
 
 ### 안녕하세요 👋
