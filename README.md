@@ -24,10 +24,5 @@
 
 <hr>
 
-### 🌐 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1028ragon&theme=blue-green" /> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=1028ragon&theme=blue-green" />
-</div>
 
 
