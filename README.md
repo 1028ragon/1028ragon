@@ -31,3 +31,10 @@
 
 <hr>
 
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+</p>
+
+<hr>
