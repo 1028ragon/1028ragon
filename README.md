@@ -30,3 +30,17 @@
 <a href="mailto:ragon526@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/ss.o.o.0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <hr>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1028ragon/1028ragon/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
+  <img width="48%" src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/dracula/3-stats.svg" />
+  <img width="48%" src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/dracula/4-productive-time.svg" />
+</p>
