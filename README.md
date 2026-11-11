@@ -31,16 +31,3 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1028ragon/1028ragon/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
-  <img width="48%" src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/dracula/3-stats.svg" />
-  <img width="48%" src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/dracula/4-productive-time.svg" />
-</p>
