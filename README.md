@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=1028ragon's%20Github&stroke=ad8ffd)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=AD8FFD&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot;Node.js+%26+React;Building+and+learning+every+day" />
-</p>
-
-### 안녕하세요 👋
-저는 유소영 입니다.
-<hr>
-
 ### 🚀 Skills
 
 **Language**<br>
@@ -36,10 +28,6 @@
 <hr>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img width="400" src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
-  <img width="400" src="https://raw.githubusercontent.com/1028ragon/1028ragon/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=1028ragon&theme=transparent&hide_border=true&ring=ad8ffd&fire=ad8ffd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ad8ffd&sideLabels=ad8ffd&dates=aaaaaa" />
